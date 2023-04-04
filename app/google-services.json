@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "455301976449",
+    "firebase_url": "https://chat-app-real-time-de28b-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-real-time-de28b",
+    "storage_bucket": "chat-app-real-time-de28b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455301976449:android:36b6eaee752a17c6b49880",
+        "android_client_info": {
+          "package_name": "com.sultonbek1547.chatapprealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455301976449-b5ft5i2mvevcnjs4ulr1fjke5jjkec4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sultonbek1547.chatapprealtime",
+            "certificate_hash": "85f6b7c0baee6b372d32976bf8177094f2aafe0f"
+          }
+        },
+        {
+          "client_id": "455301976449-vse9beep1lr8ikrkh3ipqq72kkudfirj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy5Hz2BBVefHal5oGJ3v4wuYgOymwR4_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455301976449-ifotluilhaee7tca7tbn5ck9inal9bsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455301976449:android:c20cd50dd8bf6023b49880",
+        "android_client_info": {
+          "package_name": "com.sultonbek1547.firebasestoragecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455301976449-vse9beep1lr8ikrkh3ipqq72kkudfirj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy5Hz2BBVefHal5oGJ3v4wuYgOymwR4_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455301976449-ifotluilhaee7tca7tbn5ck9inal9bsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
